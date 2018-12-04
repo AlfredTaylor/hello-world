@@ -1,1 +1,4 @@
+name = "Skip Taylor"
+greeting = "Hello, World from"
 
+print(greeting, name, ".")
